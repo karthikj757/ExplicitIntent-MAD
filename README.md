@@ -235,15 +235,11 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT
 
-<img width="1263" height="710" alt="image" src="https://github.com/user-attachments/assets/5423dcef-f8dc-4ca8-9fc8-16992825969e" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-03 231418" src="https://github.com/user-attachments/assets/1ea38082-800a-4c42-b400-5d49d14668ac" />
 
-<img width="1266" height="711" alt="image" src="https://github.com/user-attachments/assets/5c53fba2-de57-4a50-ad79-898e1a8df2ad" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/c5284352-efd4-4b79-bc9e-f8a806846bb7" />
 
-<img width="1265" height="712" alt="Screenshot 2026-11-03 223231" src="https://github.com/user-attachments/assets/42b22d81-89ea-4999-87d7-27f7a33f68d5" />
 
-<img width="1527" height="853" alt="image" src="https://github.com/user-attachments/assets/ca467bca-2720-452a-9d3c-6bab5c5fdbfe" />
-
-<img width="1526" height="800" alt="image" src="https://github.com/user-attachments/assets/a9d60bb1-5ff0-4eee-abf9-a973633d453d" />
 
 
 ## RESULT
